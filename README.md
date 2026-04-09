@@ -1,25 +1,28 @@
 # Tugas3_KB
-Knoledge Base
+"Knoledge Base"
 
 Penyakit:
-### Flu
+### Flu:
 *Gejala Utama : Demam*
 *Ciri Khas : Pilek, Bersin, Pegal*
 *Kategori : Virus*
+
 ---
-### ISPA
+### ISPA:
 *Gejala Utama : Demam*
 *Ciri Khas : Batuk, Sakit Tenggorokan, Napas Berat*
 *Kategori : Saluran Napas*
 
 ---
-### Tifus
+
+### Tifus:
 *Gejala Utama : Demam*
 *Ciri Khas : Memburuk Saat Malam Hari, Mual*
 *Kategori : Bakteri Pencernaan*
+
 ---
 
-### DBD
+### DBD:
 *Gejala Utama : Demam*
 *Ciri Khas : Bintik Merah mendadak*
 *Kategori : Virus Nyamuk*
